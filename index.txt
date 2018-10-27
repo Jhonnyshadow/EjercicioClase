@@ -4,6 +4,6 @@
 Hola Mundo
 BIENVENIDO
 quieren michelada XD
-
+<h2>Titulo 2</h2>
 </body>
 </html>
